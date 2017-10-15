@@ -105,6 +105,7 @@ venv.bak/
 
 # database
 *.sqlite3
+db.sqlite3
 
 # File explorer
 .DS_Store
